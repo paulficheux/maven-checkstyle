@@ -1,4 +1,5 @@
 package com.formation;
+package-info.java;
 
 public class Sample {
 	
