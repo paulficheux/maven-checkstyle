@@ -1,5 +1,5 @@
 package com.formation;
-package-info.java;
+package info.java;
 
 public class Sample {
 	
