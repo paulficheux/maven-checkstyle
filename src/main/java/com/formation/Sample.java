@@ -2,7 +2,7 @@ package com.formation;
 
 public class Sample {
 	
-	public Boolean {
+	public Boolean () {
 		return null;
 	}
 
